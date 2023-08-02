@@ -16,7 +16,7 @@ simply by blocking a single source.
 ```sh
 apt-get update -y
 apt-get install git
-git clone https://github.com/BOT-CODER/SniperMan.git
+git clone https://github.com/lulzddos/F-web.git
 cd SniperMan
 python3 SniperMan.py
 ```
