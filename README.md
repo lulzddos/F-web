@@ -23,5 +23,11 @@ pip install -r requirements.txt
 python3 F-web.py
 ```
 ## One line Installation:
-````sh
+```sh
 apt-get update -y && apt-get install git && git clone https://github.com/lulzddos/F-web.git && cd F-web && python3 F-web.py
+```
+## Contact Developer
+```sh
+Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv
+discord : lulz7332
+```
