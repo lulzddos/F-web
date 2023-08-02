@@ -53,8 +53,8 @@ banner=Fore.MAGENTA+'''
 '''+Fore.RESET
 credit=(Fore.CYAN+
 '''
-Author  :
-Github  :
+Author  : lulz7332
+Github  : https://github.com/lulzddos/F-web.git
 '''+Fore.RESET)
 ################################################################################
 #platform info
@@ -89,7 +89,7 @@ def update():
 		print(Fore.RED + "Please update the Program")
 		print("Redirecting...." + Fore.RESET)
 		time.sleep(3)
-		webbrowser.open('https://github.com/BOT-CODER/SniperMan/')
+		webbrowser.open('https://github.com/lulzddos/F-web.git')
 		exit()
 	else:
 		pass
