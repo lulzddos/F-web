@@ -15,10 +15,12 @@ simply by blocking a single source.
 ## Installing (linux/termux):
 ```sh
 apt-get update -y
+apt-get install pip
 apt-get install git
 git clone https://github.com/lulzddos/F-web.git
-cd SniperMan
-python3 SniperMan.py
+cd F-web
+pip install -r requirements.txt
+python3 F-web.py
 ```
 ## One line Installation:
 ````sh
