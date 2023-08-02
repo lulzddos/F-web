@@ -22,4 +22,4 @@ python3 SniperMan.py
 ```
 ## One line Installation:
 ````sh
-apt-get update -y && apt-get install git && git clone   && cd  && python3 
+apt-get update -y && apt-get install git && git clone https://github.com/lulzddos/F-web.git && cd F-web && python3 F-web.py
