@@ -1,5 +1,5 @@
 This Tool is used to make Dos attack on server from any Devices
-![Screenshot_2023-08-03-01-47-29-25_84d3000e3f4017145260f7618db1d683](https://github.com/lulzddos/F-web/assets/141240416/23fc7a5a-c0e4-4ee4-bf0b-f4b2c2752ce5)
+![Screenshot_2023-08-03-01-47-29-25_84d3000e3f4017145260f7618db1d683](https://github.com/lulzddos/F-web/assets/141240416/d7c1e8fd-7672-4497-a226-c1c5540ddeb5)
 
 ## How it Works?
 ```sh
