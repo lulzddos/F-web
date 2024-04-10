@@ -29,5 +29,5 @@ apt-get update -y && apt-get install git && git clone https://github.com/lulzddo
 ## Contact Developer
 ```sh
 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv
-discord : lulz7332
+discord : lulz#7332
 ```

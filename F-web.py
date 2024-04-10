@@ -53,7 +53,7 @@ banner=Fore.MAGENTA+'''
 '''+Fore.RESET
 credit=(Fore.CYAN+
 '''
-Author  : lulz7332
+Author  : lulz#7332
 Github  : https://github.com/lulzddos/F-web.git
 '''+Fore.RESET)
 ################################################################################
